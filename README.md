@@ -1,5 +1,5 @@
  Hi there 👋
- My name is Gustavo Yachmann, i'm from São Paulo Brazil and i'm sure i'm a  future successful dev!
+ My name is Gustavo Yachmann, i'm from São Paulo Brazil and i'm sure i'm a  future successful full stack dev!
 
-- 🔭 I’m currently working on some development assignments for my coding course.
-- 🌱 I’m currently learning fundamentals of PHP, MYSQL and IONIC.
+- 🔭 Feel Free to checkout all of my former projects ! 
+- 🌱 My skills comprise of full stack requirements : React.js , Node.js and Express, MySql, MongoDB, Python
